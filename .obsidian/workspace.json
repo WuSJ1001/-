@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "键盘IC型号和分类.md",
+                "file": "Git创建连接远程仓库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "键盘IC型号和分类"
+              "title": "Git创建连接远程仓库"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "键盘IC型号和分类.md",
+                "file": "Git创建连接远程仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "键盘IC型号和分类 的反向链接列表"
+              "title": "Git创建连接远程仓库 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "键盘IC型号和分类.md",
+                "file": "Git创建连接远程仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "键盘IC型号和分类 的出链列表"
+              "title": "Git创建连接远程仓库 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "键盘IC型号和分类.md",
+                "file": "Git创建连接远程仓库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "键盘IC型号和分类 的大纲"
+              "title": "Git创建连接远程仓库 的大纲"
             }
           },
           {
@@ -194,17 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c392224520d0761",
+  "active": "58882b2e1d5de673",
   "lastOpenFiles": [
+    "obsidian连接远程仓库.md",
+    "Git版本管理.md",
+    "键盘IC型号和分类.md",
     "汇编语言学习.md",
     "存储单元.md",
     "欢迎.md",
     "未命名.base",
-    "键盘IC型号和分类.md",
     "SSH连接远程主机和本地主机.md",
-    "obsidian连接远程仓库.md",
     "Git创建连接远程仓库.md",
-    "Git版本管理.md",
     "API.md",
     "Cloude code.md"
   ]
