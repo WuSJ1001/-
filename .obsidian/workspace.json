@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git创建连接远程仓库.md",
+                "file": "bat脚本分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git创建连接远程仓库"
+              "title": "bat脚本分析"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,21 +191,41 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "58882b2e1d5de673",
   "lastOpenFiles": [
+    "bt_prog分析.md",
+    "bat脚本分析.md",
     "Git版本管理.md",
+    "copilot/copilot-conversations/帮我整理这个笔记@20260316_131131.md",
+    "copilot/copilot-conversations",
     "Git创建连接远程仓库.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "obsidian连接远程仓库.md",
     "键盘IC型号和分类.md",
     "汇编语言学习.md",
     "存储单元.md",
     "欢迎.md",
     "未命名.base",
-    "SSH连接远程主机和本地主机.md",
-    "API.md",
-    "Cloude code.md"
+    "SSH连接远程主机和本地主机.md"
   ]
 }
