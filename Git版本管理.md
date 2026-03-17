@@ -38,7 +38,8 @@ git rm -r --cached <filename>
 git mv <file_from> <file_to>
 ```
 ## 忽略文件，编写.gitignore文件的语法
-
+注意文件编码格式要是UTF-8格式
+忽略具体某个文件直接写入文件名，忽略某个文件夹就是文件夹名后加一个`/`
 ## 查看日志
 ```
 git log
