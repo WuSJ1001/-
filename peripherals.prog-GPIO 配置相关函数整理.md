@@ -1,4 +1,5 @@
 # TEST/program/peripherals.prog 中 GPIO 配置相关函数整理
+#perpherals
 
 > 本文汇总 `TEST/program/peripherals.prog` 内所有与 GPIO 管脚配置、复用、低功耗相关的函数。根据代码语义分为 6 大类，并在每节列出函数职责、调用关键点与寄存器/内存侧写入位置，便于查阅与交叉定位。
 
