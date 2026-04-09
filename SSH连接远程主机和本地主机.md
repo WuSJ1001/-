@@ -201,8 +201,6 @@ git clone git@gitlab.com:your-username/repository.git
 
 
 
-
-
 ## 第五步：验证是否设置成功
 ssh -T git@github.com
 
